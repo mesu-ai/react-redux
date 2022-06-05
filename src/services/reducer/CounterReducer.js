@@ -1,4 +1,4 @@
-import { DECREMENT, INCREMENT, RESET } from "../constants/constant";
+import { DECREMENT, INCREMENT, RESET } from "../constants/Constant";
 
 const initialCounter={
     count:0
